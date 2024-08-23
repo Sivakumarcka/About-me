@@ -18,7 +18,6 @@
 👯 I’m looking for help with writing blogs for my website. Any help would be appreciated!
 💬 Ask me about programming and DevOps!
 📫 How to reach me: Email: sivakumarnagella32@gmail.com
-⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/DevOpsMadeEasy. Tech & Shopping addict :P
 ⚡ Domains
 DevOps
 Cloud
@@ -26,8 +25,4 @@ Programming
 ⚡ Tech Stack
 Git GitHub GitLab Linux AWS DO Docker Synk Kubernetes Rancher Jenkins Ansible Terraform Prom Grafana Python C Go MD Flask Django MySQL VS GitHub Actions Post Jira Heroku RaspberryPi Arduino ZigBee
 
-⚡ My GitHub Stats
-Anurag's github stats	
-⚡ Top Repositories
- 
-Interested in Collaborating or Donating/Sponsoring My Projects? Send an email to the above mentioned email addresses.
+
