@@ -14,7 +14,7 @@
 
 
 ⚡ Updates
-🌱 Recently completed all 1 K8s certifications: CKA,  Preparing for Terraform Associate Certification
+🌱 Recently completed 1 K8s certifications: CKA,  Preparing for Terraform Associate Certification
 👯 I’m looking for help with writing blogs for my website. Any help would be appreciated!
 💬 Ask me about programming and DevOps!
 📫 How to reach me: Email: sivakumarnagella32@gmail.com
